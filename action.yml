@@ -1,5 +1,5 @@
-name: Sync Tailscale ACLs
-  uses: tailscale/gitops-acl-action@v1.3.0
+ name: Sync Tailscale ACLs
+    uses: tailscale/gitops-acl-action@v1.3.0
 
 on:
   push:
